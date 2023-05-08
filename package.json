@@ -10,9 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ws": "^8.13.0"
-  },
-  "devDependencies": {
+    "ws": "^8.13.0",
     "@faker-js/faker": "^7.6.0"
   }
 }
